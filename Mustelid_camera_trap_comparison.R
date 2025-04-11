@@ -46,7 +46,7 @@ cat(file="MSocc-MD_all.txt",
     #Likelihood (or basic model structure)
     for(i in 1:n.site){
     
-    #Occurrence in site i
+    #Occurrence in cluster i
     z[i] ~ dbern(psi[i])
     logit(psi[i]) <- int.psi +
     beta.lpsi[1] * landscape_feature[i] +
@@ -54,7 +54,7 @@ cat(file="MSocc-MD_all.txt",
     
     for(j in 1:n.cts){
     
-    #Occurrence at camera location j
+    #Occurrence at camera method j
     a[i,j] ~ dbern(mu.a[i,j])
     mu.a[i,j] <- z[i] * theta[i,j]
     logit(theta[i,j]) <- int.theta[j]
