@@ -1,5 +1,5 @@
 # Mustelid_monitoring
-Repository for data and code for the publication: Pieter J. Otte, Tim. R. Hofmeester, Jasja Dekker, Bob Jonge Poerink & Christian Smit. 2025. Optimizing Small Mustelid Monitoring: Enclosed Camera Traps Increase Detection of Smallest Carnivores.
+Repository for data and code for the publication: Pieter J. Otte, Tim. R. Hofmeester, Jasja Dekker, Bob Jonge Poerink & Christian Smit. Optimizing Small Mustelid Monitoring: Enclosed Camera Traps Increase Detection of Smallest Carnivores. 2025
 
 <b>Abstract</b>
 1.	 Land use change in Europe is causing declines in once-abundant species. As a result, small mustelids are indicated to be declining across their original range. Due to their small size and elusive ecology, small mustelids are challenging to monitor and remain understudied. In this study, we test the effectiveness of camera traps of varying degrees of enclosure to monitor common weasel Mustela nivalis, stoat Mustela erminea, and European polecat Mustela putorius. 
