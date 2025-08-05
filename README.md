@@ -15,4 +15,4 @@ The R-script contains the description of the models and code to run the models u
 
 <b>Repository</b>
 
-A secured version of the data and code as used in the published article can be found on Zenodo when the manuscript is accepted.
+A secured version of the data and code as used in the published article can be found on Zenodo: 10.5281/zenodo.16744697.
